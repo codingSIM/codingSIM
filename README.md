@@ -1,7 +1,7 @@
 ### Hi there, welcome. 👋
 
 - 🔭 I’m currently working on my final year project.
-- 📫 How to reach me: codingsim@gmail.com
+- 📫 Reach me at: codingsim@gmail.com
 <!--
 **codingSIM/codingSIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![sim desk](https://user-images.githubusercontent.com/57096435/141797306-20ac48a9-c755-41dd-bf1e-da8b6b1b928e.png)
+
+![sim desk_2](https://user-images.githubusercontent.com/57096435/141803201-da6b441f-001c-4502-ba55-bb9eae347c40.png)
