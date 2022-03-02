@@ -1,8 +1,8 @@
 # Hi there, welcome to my GitHub!
 
-I currently have 2 live websites.
-1. My portfolio website -> [CLICK HERE](https://soranaioanamarin.com/)
-1. My projects website -> [CLICK HERE](https://simprojects.cf/)
+My name's Sorana and if you want to know what I've been working on you should also check out my websites:
+* [My portfolio](https://soranaioanamarin.com/)
+* [My projects](https://simprojects.cf/)
 
 ## Some of my projects
 1. [Weekado](https://github.com/codingSIM/weekado) - a php productivity app, based on the Indistractable model by Nir Eyal.
