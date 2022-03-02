@@ -1,23 +1,24 @@
-## Hi there, welcome to my GitHub
+# Hi there, welcome to my GitHub!
 
 I currently have 2 live websites.
-1. My portfolio website -> [CLICK HHERE][https://soranaioanamarin.com/]
-1. My projects website -> [CLICK HERE][https://simprojects.cf/]
+1. My portfolio website -> [CLICK HERE](https://soranaioanamarin.com/)
+1. My projects website -> [CLICK HERE](https://simprojects.cf/)
 
 ## Some of my projects
-1. Weekado - a php productivity app, based on the Indistractable model by Nir Eyal.
-2. Portativ 2 - a music tracker created using javascript.
-3. Chalk - a 2D platformer game with chalk-like mechanics.
+1. [Weekado](https://github.com/codingSIM/weekado) - a php productivity app, based on the Indistractable model by Nir Eyal.
+2. [Portativ 2](https://simprojects.cf/p/portativ2/) | [Repo](https://github.com/codingSIM/Portativ2) - a music tracker created using javascript.
+3. [Chalk](https://simprojects.cf/p/chalk/) - a 2D platformer game with chalk-like mechanics.
+4. [Base Test](https://github.com/codingSIM/BasesTestPy) - a python base test quiz
 
 ## Currently
-A Chalk demo is currently under development. I've teamed up with (QuantumFluctuator)[https://github.com/QuantumFluctuator] and we hope to end up with a demo that could expand into a full game. The demo version will contain at least 6 levels with several special block interactions. The game will also be taking a more puzzle-like approach. 
+A Chalk demo is currently under development. I've teamed up with [QuantumFluctuator](https://github.com/QuantumFluctuator) and we hope to end up with a demo that could expand into a full game. The demo version will contain at least 6 levels with several special block interactions. The game will also be taking a more puzzle-like approach. 
 
 However these plans are halted right now due to university work, specifically my final year project, a mapping application that will crowdsource pedestrian interest points. (mapping blankspots)
 
 ##Contact
 If you have any feedback for any of my projects or would like to get in touch please don't hesitate to use one of the methods below:
-* LinkedIn[https://www.linkedin.com/in/simcoding/]
-* Mail[mailto:simcoding@gmail.com?subject=GitHub Contact]
+* [Mail me!](mailto:simcoding@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/simcoding/)
 
 ![image](https://user-images.githubusercontent.com/57096435/156322970-c204a2dd-4d9b-40df-b91c-f5eaf7c6ba9c.png)
 
