@@ -15,7 +15,7 @@ A Chalk demo is currently under development. I've teamed up with [QuantumFluctua
 
 However these plans are halted right now due to university work, specifically my final year project, a mapping application that will crowdsource pedestrian interest points. (mapping blankspots)
 
-##Contact
+## Contact
 If you have any feedback for any of my projects or would like to get in touch please don't hesitate to use one of the methods below:
 * [Mail me!](mailto:simcoding@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/simcoding/)
