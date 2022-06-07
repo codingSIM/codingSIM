@@ -5,10 +5,12 @@ My name's Sorana and if you want to know what I've been working on you should al
 * [My projects](https://simprojects.cf/)
 
 ## Some of my projects
+
 1. [Weekado](https://github.com/codingSIM/weekado) - a php productivity app, based on the Indistractable model by Nir Eyal.
 2. [Portativ 2](https://simprojects.cf/p/portativ2/) | [Repo](https://github.com/codingSIM/Portativ2) - a music tracker created using javascript.
 3. [Chalk](https://simprojects.cf/p/chalk/) - a 2D platformer game with chalk-like mechanics.
 4. [Base Test](https://github.com/codingSIM/BasesTestPy) - a python base test quiz
+5. [My Website](https://github.com/codingSIM/Portfolio) - my portfolio website and it's past releases and designs
 
 ## Currently
 A Chalk demo is currently under development. I've teamed up with [QuantumFluctuator](https://github.com/QuantumFluctuator) and we hope to end up with a demo that could expand into a full game. The demo version will contain at least 6 levels with several special block interactions. The game will also be taking a more puzzle-like approach. 
