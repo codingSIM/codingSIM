@@ -15,8 +15,6 @@ My name's Sorana and if you want to know what I've been working on you should al
 ## Currently
 A Chalk demo is currently under development. I've teamed up with [QuantumFluctuator](https://github.com/QuantumFluctuator) and we hope to end up with a demo that could expand into a full game. The demo version will contain at least 6 levels with several special block interactions. The game will also be taking a more puzzle-like approach. 
 
-However these plans are halted right now due to university work, specifically my final year project, a mapping application that will crowdsource pedestrian interest points. (mapping blankspots)
-
 ## Contact
 If you have any feedback for any of my projects or would like to get in touch please don't hesitate to use one of the methods below:
 * [Mail me!](mailto:simcoding@gmail.com)
