@@ -1,15 +1,16 @@
 # Hi there, welcome to my GitHub!
 
-My name's Sorana and if you want to, you can check out my website here:
+My name's Sorana. Check out my website here:
 * [My portfolio](https://soranaioanamarin.com/)
 
 ## Some of my projects
 
-1. [Weekado](https://github.com/codingSIM/weekado) - a php productivity app, based on the Indistractable model by Nir Eyal.
-2. [Portativ 2](https://simprojects.cf/p/portativ2/) | [Repo](https://github.com/codingSIM/Portativ2) - a music tracker created using javascript.
-3. [Chalk](https://simprojects.cf/p/chalk/) - a 2D platformer game with chalk-like mechanics.
-4. [Base Test](https://github.com/codingSIM/BasesTestPy) - a python base test quiz
-5. [My Website](https://github.com/codingSIM/Portfolio) - my portfolio website and it's past releases and designs
+1. [Ant Map]() - a web app created using the LAMP stack and Google Maps API that resolves the mapping blankspots of smaller infrastructure and objects of interest.
+2. [Weekado](https://github.com/codingSIM/weekado) - a php productivity app, based on the Indistractable model by Nir Eyal.
+3. [Portativ 2](https://simprojects.cf/p/portativ2/) | [Repo](https://github.com/codingSIM/Portativ2) - a music tracker created using javascript.
+4. [Chalk](https://simprojects.cf/p/chalk/) - a 2D platformer game with chalk-like mechanics.
+5. [Base Test](https://github.com/codingSIM/BasesTestPy) - a python base test quiz
+6. [My Website](https://github.com/codingSIM/Portfolio) - my portfolio website and it's past releases and designs
 
 ## Currently
 I'm currently working towards getting my driving license and am looking for a role in tech.
