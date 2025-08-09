@@ -9,6 +9,7 @@ Check out my website here:
 ## My current project
 [Ant Map](https://antmap.online) - passion project to help me keep track of interesting places I've been to. 
 A full stack (LAMP) web-app using AJAX for dynamicity and Leaflet/OpenStreetMap for the mapping aspect.
+
 Check it out!
 
 ## Currently
