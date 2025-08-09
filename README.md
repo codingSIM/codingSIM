@@ -3,10 +3,9 @@
 I am curious about everything and I enjoy solving problems 📊. 
 I love playing table tennis 🏓 and building Lego 🏗️.
 
-## My current project
-[Ant Map](https://antmap.online) - passion project to help me keep track of interesting places I've been to. 
-
-A full stack (LAMP) web-app using AJAX for dynamicity and Leaflet/OpenStreetMap for the mapping aspect.
+## Current project
+[Ant Map](https://antmap.online) - passion project to help me keep track of interesting places I've been to.   
+A full stack (LAMP) web-app using AJAX for dynamicity and Leaflet/OpenStreetMap for the mapping aspect.   
 Check it out!
 
 ## Currently
