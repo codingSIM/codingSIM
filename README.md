@@ -1,19 +1,16 @@
-# I'm Sorana 
+# I'm Sorana 💻
 
-I am curious about everything and I like solving problems. I love table tennis and making lists, to keep in shape and keep organised respectively. 
+I am curious about everything and I enjoy solving problems 📊. 
+I love playing table tennis 🏓 and building Lego 🏗️.
 
 Check out my website here:
 * [My portfolio](https://soranaioanamarin.com/)
 
-## My main projects
-
-1. [Ant Map](https://antmap.online) - A second iteration is under development and will be focused on maintaining personal markers (CRUD - API), it will also use Leaflet and OpenStreetMaps instead of Google Maps API.
-2. [Weekado](https://github.com/codingSIM/weekado) - a php productivity app, based on the Indistractable model by Nir Eyal. Weekado 2 in progress.
-3. [Portativ 2](https://soranaioanamarin.com/projects/portativ2/index.html) | [Repo](https://github.com/codingSIM/Portativ2) - a music tracker created using javascript.
-4. [Chalk](http://doc.gold.ac.uk/www/118/game/?uuid=smari003) - a 2D platformer game with chalk-like mechanics - The Game Project - Hall of Fame 
+## My current project
+[Ant Map](https://antmap.online) - passion project to help me keep track of interesting places I've been to. A full stack (LAMP) web-app using AJAX for dynamicity and Leaflet/OpenStreetMap for the mapping aspect. Check it out!
 
 ## Currently
-Am looking for a start in tech.
+Am looking for a start in tech. Interested in software development.
 
 ## Contact
 If you have any feedback for any of my projects or would like to get in touch please don't hesitate to contact me:
@@ -21,19 +18,3 @@ If you have any feedback for any of my projects or would like to get in touch pl
 * [LinkedIn](https://www.linkedin.com/in/simcoding/)
 
 ![image](https://user-images.githubusercontent.com/57096435/156322970-c204a2dd-4d9b-40df-b91c-f5eaf7c6ba9c.png)
-
-<!--
-**codingSIM/codingSIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
