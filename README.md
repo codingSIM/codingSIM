@@ -1,6 +1,6 @@
 # I'm [Sorana 🖥️](https://soranaioanamarin.com/)
 
-I am curious about everything and I enjoy solving problems 📊. 
+I am curious about everything and I enjoy solving problems 📊.    
 I love playing table tennis 🏓 and building Lego 🏗️.
 
 ## Current project
