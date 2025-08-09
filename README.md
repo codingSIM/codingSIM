@@ -9,7 +9,8 @@ A full stack (LAMP) web-app using AJAX for dynamicity and Leaflet/OpenStreetMap 
 Check it out!
 
 ## Currently
-Am looking for a start in tech. Interested in software development.
+Am looking for a start in tech. Interested in software development.   
+Check out [my website](https://soranaioanamarin.com/)!
 
 ## Contact
 If you have any feedback for any of my projects or would like to get in touch please don't hesitate to contact me:
